@@ -4,12 +4,12 @@ body {
   padding: 0;
   display: flex;
   justify-content: center;
-  background-color: lightblue;
+  background-color: rgb(82, 106, 112);
 }
 
 .calculator {
   background-color: darkgray;
-  width: 130px;
+  width: 100px;
   padding: 30px;
   border-radius: 20px;
   display: flex;
